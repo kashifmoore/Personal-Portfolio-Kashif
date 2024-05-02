@@ -1,7 +1,7 @@
 <ThisCharacterisCheap!>
 <h1>Dawg this character is Fucking Cheap</h1>
 
-![akuma](akuma.jpg)
+![akuma](akuma.jpg.png)
 <html>
 <head>
 <link rel="stylesheet" href="mystyle.css">
