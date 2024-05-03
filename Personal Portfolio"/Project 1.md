@@ -2,11 +2,11 @@
 
 
 
-![project1](Portfolio1.png)
+![Portfolio](Portfolio.png)
 
-![project2](Portfolio2.png)
+![Portfolio2](Portfolio2.png)
 
-![project3](Portfolio3.png)
+![Portfolio3](Portfolio3.png)
 
 
 
