@@ -1,3 +1,16 @@
+##Portfolio Markdown
+
+
+
+![project1](Portfolio1.png)
+
+![project2](Portfolio2.png)
+
+![project3](Portfolio3.png)
+
+
+
+
 
  <ThisCharacterisCheap!>
 <h1>Dawg this character is Fucking Cheap</h1>
